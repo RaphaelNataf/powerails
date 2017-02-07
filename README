@@ -1,0 +1,22 @@
+---------------------
+ ## INTRO & USAGE ##
+---------------------
+
+Powerails.sh is a very lightweight shell script (for Mac OS) that allows you to save time during your Ruby on Rails sessions. This is basicly a GUI that gathered all the commands I'm able to use for now.
+This can help many "very beginners" in Rails and code noobs like me to save time with explications.
+Moreover, even If i don't see how it could be possible, ny other use of this script is not the responsibility of the developer (see below : R.N).
+
+---------------
+ ## INSTALL ##
+---------------
+
+Just open your Terminal and write the path of the powerails.sh route. (ex : 'root/shell/powerails.sh'). This will start the GUI. All you have to do is to enjoy :)
+
+---------------
+ ## AUTHOR ##
+---------------
+
+This simple script was created by Raphaël NATAF, student @ HETIC, FR. I'm 80% designer and 20% developper. Please help me to find bugs and improve this script, i'm a coding noob !
+
+
+Enjoy.
